@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo{
+    height: 48px;
+    padding: 2x 10px;
+}
+.icon-bar{
+    background: darkred;
+}
+li a{
+    color: #000;
+}
+.big-text{
+    font-size: 52px;
+    margin: 20px;
+    color: rgb(138, 91, 161);
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 32px;
+}
+a.btn-first{
+    background-color: rgb(202, 142, 142);
+    color: rgb(242, 243, 243);
+
+}
+a.btn-second{
+    background-color: fuchsia;
+    border: 1px  solid;
+    color: #9c1313
+}
+a.btn.hover{
+    background-color: rgb(22, 180, 75);
+    border: none;
+    color: rgb(97, 248, 10);
+    box-shadow: 5px ;
+}
